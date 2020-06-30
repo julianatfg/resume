@@ -109,21 +109,21 @@
 }
 
 .contact-button {
-  @include border-radius(3px);
-  background-color: #efefef;
+  @include border-radius(10px);
+  background-color: #E3008C;
   text-decoration: none;
   text-align: center;
   display: block;
   margin: 1.5rem auto;
   width: 220px;
-  font-size: 1.375rem;
+  font-size: 16px;
   @include sans_light;
   color: #333;
-  line-height: 55px;
+  line-height: 35px;
   @include transition(all .2s ease);
 
   &:hover {
-    background-color: #333;
+    background-color: #E3008C52;
     color: #fff;
   }
 

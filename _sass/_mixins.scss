@@ -51,7 +51,7 @@
 // type utilities
 
 @mixin sans {
-  font-family: "Roboto", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 @mixin sans_light {
@@ -75,7 +75,7 @@
 }
 
 @mixin serif {
-  font-family: "Roboto Slab", "Lora", Palatino, Georgia, serif;
+  font-family: "Roboto Slab", Palatino, Georgia, serif;
 }
 
 @mixin serif_regular {
