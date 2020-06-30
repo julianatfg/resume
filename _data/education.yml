@@ -1,14 +1,14 @@
 # Degree
 # Formação acadêmica
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
+- degree: Especialização em Gestão Pública Municipal
+  uni: Universidade Federal Fluminense
+  year: 2018 - 2020
+  #awards:
     - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  #summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bacharelado em Turismo
+  uni: Universidade Veiga de Almeida
+  year: 2004 - 2007
+  #award: Most likely to succeed
+  #summary: You can choose to have either a single or multiple awards
