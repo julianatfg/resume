@@ -1,11 +1,31 @@
 # Recognitions
 # Reconhecimentos
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Responsive Web Design Certification (300h)
+  organization: freeCodeCamp.org
+  year: Junho/2020 &mdash; atualmente
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Curso de Transparência Pública
+  organization: Controladoria Regional da União &mdash; Rio de Janeiro
+  year: Novembro/2019
+
+- award: Certificação em Ouvidoria (120h)
+  organization: Escola Nacional de Administração Pública (ENAP)
+  year: Junho/2017 &mdash; Outubro/2017
+  summary: Acesso à Informação Controle Social; Ética e Serviço Público; Gestão em Ouvidoria; Introdução à Gestão de Processos; Resolução de Conflitos Aplicada ao Contexto das Ouvidorias.
+
+- award: Regulamentação da LAI nos Municípios (20h)
+  organization: ENAP
+  year: Novembro/2017
+  #summary: Voted Most Likely To Succeed by a panel of my high school peers.
+
+- award: Defesa do Usuário e Simplificação (20h)
+  organization: ENAP
+  year: Setembro/2018
+
+- award: Tratamento de Denúncias em Ouvidorias (20h)
+  organization: ENAP
+  year: Setembro/2018
+
+- award: Dados Abertos (20h)
+  organization: ENAP
+  year: Fevereiro/2019
