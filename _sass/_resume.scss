@@ -101,7 +101,7 @@
   .icon-link { display: inline-block;
 
     &:hover .icon path {
-      fill: #333;
+      fill: #E3008C;
       @include transition(all .2s ease);
     }
   }
@@ -170,6 +170,7 @@
       &:hover {
         border-bottom: none;
         color: #9c9c9c;
+        @include transition(all .2s ease);
       }
     }
   }
