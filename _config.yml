@@ -48,6 +48,7 @@ resume_section_interests:       true
 resume_social_links:
   resume_github_url:            "https://github.com/julianatfg/"
   resume_twitter_url:           "http://twitter.com/juleees"
+  # resume_telegram_url:          "https://t.me/jugoul"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
