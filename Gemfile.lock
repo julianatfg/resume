@@ -33,7 +33,7 @@ GEM
     gemoji (3.0.1)
     github-pages (206)
       github-pages-health-check (= 1.16.1)
-      jekyll (= 4.1.1)
+      jekyll (= 3.8.7)
       jekyll-avatar (= 0.7.0)
       jekyll-coffeescript (= 1.1.1)
       jekyll-commonmark-ghpages (= 0.1.6)
@@ -237,7 +237,7 @@ GEM
       thread_safe (~> 0.1)
     unicode-display_width (1.7.0)
     wdm (0.1.1)
-    zeitwerk (2.3.1)
+    zeitwerk (2.4.0)
 
 PLATFORMS
   x64-mingw32
