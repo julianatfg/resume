@@ -55,6 +55,8 @@ resume_social_links:
   resume_instagram_url:         "http://instagram.com/sublondon"
   # resume_website_url:           "http://joelglovier.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
+  resume_whatsapp_url:          "https://wa.me/5521991332292"
+  resume_telegram_url:          "https://t.me/jugoul"
 resume_print_social_links:      true
 
 # Design settings
