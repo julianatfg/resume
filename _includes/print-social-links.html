@@ -37,5 +37,15 @@
   <li><strong>Website</strong>: {{ site.resume_social_links.resume_website_url }}</li>
   {% endif %}
 
+  <!-- WhatsApp link -->
+  {% if site.resume_social_links.resume_whatsapp_url %}
+  <li><strong>WhatsApp</strong>: {{ site.resume_social_links.resume_whatsapp_url }}</li>
+  {% endif %}
+
+  <!-- Telegram link -->
+  {% if site.resume_social_links.resume_telegram_url %}
+  <li><strong>Telegram</strong>: {{ site.resume_social_links.resume_telegram_url }}</li>
+  {% endif %}
+
 </ul>
 {% endif %}
