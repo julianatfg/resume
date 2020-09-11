@@ -6,6 +6,6 @@
 
 :tulip: :blossom: :waxing_crescent_moon:
 
-## Documentação &tc.
+## Documentação &c.
 
 Vá ao repositório do código, em [jglovier/resume-template](http://resume-template.joelglovier.com/) :octocat:
