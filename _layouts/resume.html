@@ -152,7 +152,7 @@
 
         {% for recognition in site.data.recognitions %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
+          <h3 class="resume-item-title" itemprop="award">{% if recognition.url %}<a href="{{ recognition.url }}" itemprop="url" target="_blank">{{ recognition.award }}</a>{% else %}{{ recognition.award }}{% endif %}</h3>
           <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
           <p class="resume-item-copy">{{ recognition.summary }}</p>
         </div>
@@ -167,7 +167,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Participações em Eventos e Conselhos</h2>
+          <h2>Participações em Eventos, Conselhos e GTs</h2>
         </header>
 
         {% for association in site.data.associations %}
