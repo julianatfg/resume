@@ -57,7 +57,7 @@ resume_social_links:
   # resume_medium_url:            "https://medium.com/@jglovier"
   #resume_whatsapp_url:          "https://wa.me/5521991332292"
   #resume_telegram_url:          "https://t.me/jugoul"
-resume_print_social_links:      true
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
