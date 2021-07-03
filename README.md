@@ -2,8 +2,6 @@
 
 *Template original para Jekyll + GitHub Pages de @jglovier.*
 
-![Com as minhas alterações.](images/screenshot_jules.png)
-
 :tulip: :blossom: :waxing_crescent_moon:
 
 ## Documentação &c.
