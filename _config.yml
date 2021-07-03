@@ -18,10 +18,10 @@ resume_contact_email:           "juliana.goulart@rio.rj.gov.br"
 resume_contact_email_academic:  "jufilhote@id.uff.br"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "(21) 99133-2292"
+resume_contact_telephone:       ""
 resume_contact_address:         ""
 
-resume_header_contact_info:     "(21) 99133-2292 • juliana.goulart@rio.rj.gov.br"
+resume_header_contact_info:     "juliana.goulart@rio.rj.gov.br"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Especialista em Gestão Pública Municipal pela Universidade Federal Fluminense, bacharel em Turismo pela Universidade Veiga de Almeida, servidora pública municipal concursada da Prefeitura da Cidade do Rio de Janeiro desde junho de 2016. Primeiramente, ocupei o cargo de Assistente de Ouvidoria na Ouvidoria da Secretaria Municipal de Transportes. Atualmente, exerço o cargo de Assistente na Coordenadoria Técnica de Transparência, da Subsecretaria de Transparência e Governo Digital, da Secretaria Municipal de Governo e Integridade Pública.</p>"
