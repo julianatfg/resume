@@ -1,10 +1,11 @@
 # Degree
+#First one
 - degree: Especialização em Gestão Pública Municipal
   uni: Universidade Federal Fluminense
   year: 2018 &mdash; 2020
   #awards:
     #- award: Summa Cumme Laude graduate
-  summary: "Trabalho de Conclusão de Curso: <a href="https://publicacoes.even3.com.br/tcc/indicadores-de-efetividade-da-lei-de-acesso-a-informacao-no-municipio-do-rio-de-janeiro-515914" target="_blank">Indicadores de Efetividade da Lei de Acesso à Informação no Município do Rio de Janeiro &mdash; defendido em 13 de julho de 2020.</a>"
+  summary: "Trabalho de Conclusão de Curso: Indicadores de Efetividade da Lei de Acesso à Informação no Município do Rio de Janeiro &mdash; defendido em 13 de julho de 2020."
 
 - degree: Bacharelado em Turismo
   uni: Universidade Veiga de Almeida
