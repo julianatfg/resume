@@ -14,10 +14,10 @@ resume_name:                    "Juliana Tosta Filhote Goulart "
 resume_title:                   "Especialista em Gestão Pública Municipal"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "juliana.goulart@rio.rj.gov.br"
-resume_contact_email_academic:  "jufilhote@id.uff.br"
+resume_contact_email:           ""
+resume_contact_email_academic:  ""
 resume_contact_email_catchall1: "contato@julianafilhote.me"
-resume_contact_email_catchall2: "juju@julianafilhote.me" 
+resume_contact_email_catchall2: "" 
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       ""
