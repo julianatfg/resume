@@ -274,7 +274,6 @@ GEM
     unf_ext (0.0.8.1)
     unf_ext (0.0.8.1-x64-mingw32)
     unicode-display_width (1.8.0)
-    wdm (0.1.1)
     zeitwerk (2.5.4)
 
 PLATFORMS
@@ -284,7 +283,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   nokogiri (>= 1.11.0.rc4)
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
-   2.2.17
+   2.3.14
