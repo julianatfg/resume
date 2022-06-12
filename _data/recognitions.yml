@@ -1,19 +1,14 @@
 # Recognitions
 # Cursos extracurriculares
-- award: Masterclass Liderança Carioca (2h)
-  organization: Fundação João Goulart
-  year: Maio/2022
-  summary: "Parte do processo seletivo do Programa Líderes Cariocas. Conteúdo: apresentação do Programa Líderes Cariocas: sua evolução histórica, a gestão de competências e talentos, seus objetivos, benefícios racionais e experienciais e emocionais."
+- award: Liderança e Gestão de Equipes (2h)
+  organization: Escola Nacional de Administração Pública (ENAP)
+  year: Junho/2022
+  #summary: 
 
-- award: Masterclass Integridade (2h)
-  organization: Fundação João Goulart
+- award: Masterclasses Liderança Carioca (3h), Integridade (2h) e Rio Futuro (2h)
+  organization: Fundação João Goulart (FJG)
   year: Maio/2022
-  summary: "Parte do processo seletivo do Programa Líderes Cariocas. Conteúdo: disseminação da cultura de planejamento e integridade da Prefeitura, na busca da eficiência da gestão, sustentabilidade e resiliência da Cidade, reforçando nos servidores participantes a competência do compromisso público e da Política de Desenvolvimento do Gestor Carioca."
-
-- award: Masterclass Rio Futuro (2h)
-  organization: Fundação João Goulart
-  year: Maio/2022
-  summary: "Parte do processo seletivo do Programa Líderes Cariocas. Conteúdo: apresentação de cases de sucesso de planejamento na cidade do Rio Planejamento Estratégico Rio Futuro (PE) e o Plano de Desenvolvimento Sustentável e Ação Climática (PDS), bem como os Líderes que atuam em pautas relevantes para a gestão pública municipal."
+  summary: "Parte integrante do processo seletivo do Programa Líderes Cariocas."
 
 - award: Curso de capacitação no Processo.rio (20h)
   organization: Prefeitura da Cidade do Rio de Janeiro
@@ -28,25 +23,16 @@
   organization: Controladoria Regional da União &mdash; Rio de Janeiro
   year: Novembro/2019
 
-- award: Certificação em Ouvidoria (120h)
+- award: Certificação em Ouvidoria (160h)
   #url: https://www.escolavirtual.gov.br/programa/2
-  organization: Escola Nacional de Administração Pública (ENAP)
-  year: Junho/2017 &mdash; Outubro/2017
-  summary: Acesso à Informação; Controle Social; Ética e Serviço Público; Gestão em Ouvidoria; Introdução à Gestão de Processos; Resolução de Conflitos Aplicada ao Contexto das Ouvidorias.
+  organization: ENAP
+  year: Junho/2017 &mdash; Setembro/2018
+  summary: Acesso à Informação; Controle Social; Ética e Serviço Público; Gestão em Ouvidoria; Introdução à Gestão de Processos; Resolução de Conflitos Aplicada ao Contexto das Ouvidorias; Defesa do Usuário e Simplificação; Tratamento de Denúncias em Ouvidoria.
 
 - award: Regulamentação da LAI nos Municípios (20h)
   organization: ENAP
   year: Novembro/2017
-  #summary: Voted Most Likely To Succeed by a panel of my high school peers.
-
-- award: Defesa do Usuário e Simplificação (20h)
-  organization: ENAP
-  year: Setembro/2018
-
-- award: Tratamento de Denúncias em Ouvidorias (20h)
-  organization: ENAP
-  year: Setembro/2018
-
+  
 - award: Dados Abertos (20h)
   organization: ENAP
   year: Fevereiro/2019
