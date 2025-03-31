@@ -4,6 +4,15 @@
 
 :tulip: :blossom: :waxing_crescent_moon:
 
+```htm
+##
+---
+layout: resume
+---
+```
+
+##
+
 ## Documentação &c.
 
 Vá ao repositório do código, em [jglovier/resume-template](http://resume-template.joelglovier.com/) :octocat:
