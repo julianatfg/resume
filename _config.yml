@@ -49,7 +49,7 @@ resume_section_interests:       false
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/julianatfg/"
-  resume_twitter_url:           "https://"
+  #resume_twitter_url:           "https://"
   # resume_telegram_url:          "https://"
   # resume_dribbble_url:          "https://"
   # resume_facebook_url:          "https://"
