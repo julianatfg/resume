@@ -1,6 +1,6 @@
 # Site settings
 title: "Currículo de Juliana Tosta Filhote Goulart"
-description: "Currículo Vitae de Juliana T F Goulart."
+description: "Currículo Vitae de Juliana Goulart."
 
 # Build settings
 markdown: kramdown
@@ -49,7 +49,7 @@ resume_section_interests:       false
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/julianatfg/"
-  resume_twitter_url:           "http://twitter.com/juleees"
+  resume_twitter_url:           "https://"
   # resume_telegram_url:          "https://"
   # resume_dribbble_url:          "https://"
   # resume_facebook_url:          "https://"
